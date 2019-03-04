@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="9603b6e0-90de-4d53-a33d-2fcc9d80c938"
-    Publisher="CN=f207f87b-f502-472b-b2a4-efbbd7cf5ac7"
+    Name="f6e1170f-f196-4f71-a9d1-2a39b0baa6d2"
+    Publisher="CN=28da102c-143d-4bb1-84e9-e6432cf69393"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Appium.Test.UWP</DisplayName>
-    <PublisherDisplayName>f207f87b-f502-472b-b2a4-efbbd7cf5ac7</PublisherDisplayName>
+    <PublisherDisplayName>28da102c-143d-4bb1-84e9-e6432cf69393</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

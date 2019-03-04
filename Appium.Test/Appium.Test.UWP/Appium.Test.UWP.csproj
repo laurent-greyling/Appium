@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{6FBB2330-36FC-42F6-9515-257C3BFC208C}</ProjectGuid>
+    <ProjectGuid>{85359F08-CFA1-4ED8-A657-6BCBCD4B10AC}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Appium.Test.UWP</RootNamespace>
@@ -148,7 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Appium.Test\Appium.Test.csproj">
-      <Project>{ABB6CD96-9F64-4E31-B1AE-83D61DD57451}</Project>
+      <Project>{128C06CE-5B70-4FD2-8F00-F641FDA2A46D}</Project>
       <Name>Appium.Test</Name>
     </ProjectReference>
   </ItemGroup>
